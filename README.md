@@ -15,6 +15,8 @@ A Bash script to analyse server performance at a glance.
 chmod +x server-stats.sh
 ./server-stats.sh
 ```
+## Project URl 
+https://roadmap.sh/projects/server-stats
 
 ## Screenshot
 [paste a screenshot of the terminal output here]
